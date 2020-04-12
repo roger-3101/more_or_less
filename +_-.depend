@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586626736 source:c:\users\pasto\desktop\prog\c\+_-\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
